@@ -1,0 +1,4 @@
+gradio==6.19.0
+numpy
+matplotlib
+imageio
