@@ -13,6 +13,10 @@ short_description: Spend expensive compute only when reality drifts.
 
 # 🔌 The Clutch — *spend expensive compute only when reality drifts*
 
+Live at huggingface spaces: 
+
+https://huggingface.co/spaces/Aluode/Clutch2
+
 A **substrate-agnostic dual-process controller**, distilled from Antti Luode's Loom
 Navigator to its one reusable idea, then given a live demo you can *watch*.
 
